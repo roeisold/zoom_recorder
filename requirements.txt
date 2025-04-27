@@ -1,0 +1,21 @@
+# GUI Framework
+PyQt5>=5.15.0
+
+# Screen interaction and automation
+pyautogui>=0.9.52
+
+# Screen detection
+screeninfo>=0.8
+
+# Image processing and screen recording
+opencv-python>=4.5.0
+numpy>=1.19.0
+
+# Audio recording
+pyaudio>=0.2.11
+
+# Scheduling
+schedule>=1.0.0
+
+# System utilities
+python-dateutil>=2.8.0
